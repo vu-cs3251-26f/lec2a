@@ -1,4 +1,4 @@
-/* @author G. Hemingway, copyright @2025 - All rights reserved */
+/* @author G. Hemingway, copyright @2026 - All rights reserved */
 #include <iostream>
 
 // Global variable - accessible from anywhere
